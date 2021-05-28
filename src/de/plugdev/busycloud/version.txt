@@ -1,2 +1,2 @@
-1.03/Busy-Bungee
-1.03/Busy-Spigot
+1.03/BusyCloud-Bungee
+1.03/BusyCloud-Spigot
