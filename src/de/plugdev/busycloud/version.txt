@@ -1,2 +1,2 @@
-1.03
-1.03
+1.03/Busy-Bungee.jar
+1.03/Busy-Spigot.jar
